@@ -23170,7 +23170,8 @@
     <e lm="cara"><i>car</i><par n="jornad/a__n"/></e>        
     <e lm="fàcia" r="LR"><i>fàci</i><par n="jornad/a__n"/></e>        
     <e lm="caravana" a="carmentano"><i>caravan</i><par n="jornad/a__n"/></e>        
-    <e lm="carbon"><i>carbon</i><par n="conselh__n"/></e>        
+    <e lm="carbon"><i>carbon</i><par n="conselh__n"/></e>  
+     <e lm="carbonilha"><i>familh</i><par n="jornad/a__n"/></e>        
     <e lm="carcums"><i>tarcums</i><par n="entorns__n"/></e>        
     <e lm="cardet"><i>cardet</i><par n="conselh__n"/></e>        
     <e lm="cardonilha" alt="oci"><i>cardonilh</i><par n="jornad/a__n"/></e>        
@@ -26265,6 +26266,7 @@
       <e r="LR" lm="messa" alt="oci@aran"><i>mess</i><par n="jornad/a__n"/></e>
       <e r="LR" lm="messa" alt="oci@gascon"><i>mess</i><par n="jornad/a__n"/></e>
     <e lm="messa" alt="oci"><i>mess</i><par n="jornad/a__n"/></e>        
+    <e lm="mirga" alt="oci"><i>carg</i><par n="hormig/a__n"/></e>        
       <e r="LR" lm="missau" alt="oci"><i>missau</i><par n="conselh__n"/></e>
     <e lm="missau" alt="oci@aran"><i>missau</i><par n="conselh__n"/></e>        
     <e lm="missau" alt="oci@gascon"><i>missau</i><par n="conselh__n"/></e>        
@@ -32339,7 +32341,7 @@
     <e lm="afrairar"><i>afr</i><par n="c/a[NT]ar__vblex" prm="ir"/></e>        
     <e lm="encarnar"><i>enc</i><par n="c/a[NT]ar__vblex" prm="rn"/></e>        
     <e lm="comandar"><i>com</i><par n="c/a[NT]ar__vblex" prm="nd"/></e>        
-    <e lm="agachar" r="LR"><i>ag</i><par n="c/a[NT]ar__vblex" prm="ch"/></e>        
+    <e lm="agachar"><i>ag</i><par n="c/a[NT]ar__vblex" prm="ch"/></e>        
     <e lm="agafar" r="LR"><i>ag</i><par n="c/a[NT]ar__vblex" prm="f"/></e>        
     <e lm="mainar" r="LR"><i>m</i><par n="c/a[NT]ar__vblex" prm="in"/></e>        
       <e r="LR" lm="donar" alt="oci@aran"><i>d</i><par n="aband/o[N]ar__vblex" prm="n"/></e>
@@ -36502,7 +36504,7 @@
       <e r="LR" lm="rapidament" a="carmentano" alt="oci@aran"><i>rapidament</i><par n="ager__adv"/></e>
       <e r="LR" lm="rapidament" a="carmentano" alt="oci@gascon"><i>rapidament</i><par n="ager__adv"/></e>
     <e lm="rapidament" a="carmentano" alt="oci"><i>rapidament</i><par n="ager__adv"/></e>
-    <e lm="lestament" a="carmentano" r="LR"><i>lestament</i><par n="ager__adv"/></e>
+    <e lm="lèstament" a="carmentano"><i>lèstament</i><par n="ager__adv"/></e>
     <e lm="lestaments" a="carmentano" r="LR"><i>lestaments</i><par n="ager__adv"/></e>
     <e lm="torneg" a="carmentano"><i>torneg</i><par n="mes__n"/></e>
     <e lm="cineasta" a="carmentano"><i>cineast</i><par n="guardi/a__n"/></e>
