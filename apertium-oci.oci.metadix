@@ -19505,7 +19505,7 @@
       <e r="LR" lm="personal" alt="oci@aran"><i>personal</i><par n="trabalhador__adj"/></e>
       <e r="LR" lm="personal" alt="oci@gascon"><i>personal</i><par n="trabalhador__adj"/></e>
     <e lm="personal" alt="oci"><i>personal</i><par n="trabalhador__adj"/></e>        
-      <e r="LR" lm="petit" alt="oci"><i>petit</i><par n="content__adj"/></e>
+      <e lm="petit" alt="oci"><i>petit</i><par n="content__adj"/></e>
     <e lm="petit" alt="oci@aran"><i>petit</i><par n="content__adj"/></e>        
     <e lm="petit" alt="oci@gascon"><i>petit</i><par n="content__adj"/></e>        
       <e r="LR" lm="pichon" alt="oci@aran"><i>pichon</i><par n="trabalhador__adj"/></e>
@@ -23173,6 +23173,7 @@
     <e lm="carbon"><i>carbon</i><par n="conselh__n"/></e>        
     <e lm="carcums"><i>tarcums</i><par n="entorns__n"/></e>        
     <e lm="cardet"><i>cardet</i><par n="conselh__n"/></e>        
+    <e lm="cardonilha" alt="oci"><i>cardonilh</i><par n="jornad/a__n"/></e>        
     <e lm="carga"><i>carg</i><par n="hormig/a__n"/></e>        
     <e lm="cargue" alt="oci@aran"><i>cargue</i><par n="conselh__n"/></e>        
     <e lm="cargue" alt="oci@gascon"><i>cargue</i><par n="conselh__n"/></e>        
@@ -26242,7 +26243,7 @@
     <e lm="minimizacion"><i>minimizacion</i><par n="part__n"/></e>        
     <e lm="ministèri"><i>ministèri</i><par n="conselh__n"/></e>        
     <e lm="ministre"><i>ministr</i><par n="ministr/e__n"/></e>        
-    <e lm="dròlle" r="LR"><i>dròll</i><par n="ministr/e__n"/></e>        
+    <e lm="dròlle"><i>dròll</i><par n="ministr/e__n"/></e>        
     <e lm="minjador"><i>minjador</i><par n="conselh__n"/></e>        
     <e lm="minjamosques"><i>minjamosques</i><par n="minjamosques__n"/></e>        
       <e r="LR" lm="minoria" alt="oci"><i>minori</i><par n="jornad/a__n"/></e>
@@ -32184,7 +32185,7 @@
     <e lm="interessar"><i>inter</i><par n="cap/e[R]ar__vblex" prm="ss"/></e>        
     <e lm="interpausar"><i>interp</i><par n="c/a[NT]ar__vblex" prm="us"/></e>        
     <e lm="interpretar"><i>interpr</i><par n="lid/e[R]ar__vblex" prm="t"/></e>        
-    <e lm="isolar"><i>is</i><par n="p/o[RT]ar__vblex" prm="l"/></e>        
+    <e lm="isolar"><i>is</i><par n="p/o[RT]ar__vblex" prm="l"/></e>     
     <e lm="jogar"><i>j</i><par n="j/ogar__vblex"/></e>        
     <e lm="interrogar"><i>interr</i><par n="j/ogar__vblex"/></e>        
     <e lm="jurar"><i>j</i><par n="ab/u[S]ar__vblex" prm="r"/></e>        
@@ -34183,7 +34184,7 @@
       <e r="LR" lm="diluir" alt="oci@aran"><i>dilu</i><par n="atribu/ir__vblex"/></e>        
       <e r="LR" lm="diluir" alt="oci@gascon"><i>dilu</i><par n="atribu/ir__vblex"/></e>        
     <e lm="diluir" alt="oci"><i>dilu</i><par n="atribu/ir__vblex"/></e>
-    <e lm="ausir" r="LR"><i>aus</i><par n="magr/èrem__vblex"/></e>        
+    <e lm="ausir"><i>aus</i><par n="magr/èrem__vblex"/></e>        
     <e lm="despartir" r="LR"><i>despart</i><par n="magr/èrem__vblex"/></e>        
     <e lm="repartir" r="LR"><i>repart</i><par n="magr/èrem__vblex"/></e>        
     <e lm="destrusir" r="LR"><i>destrus</i><par n="magr/èrem__vblex"/></e>        
@@ -34375,8 +34376,8 @@
     <e lm="déuer" alt="oci@gascon"><i>d</i><par n="d/éuer__vbmod"/></e>        
       <e r="LR" lm="dever" alt="oci@aran"><i>de</i><par n="de/ver__vbmod"/></e>
       <e r="LR" lm="dever" alt="oci@gascon"><i>de</i><par n="de/ver__vbmod"/></e>
-    <e lm="dever" alt="oci"><i>de</i><par n="de/ver__vbmod"/></e>        
-    <e lm="deure" r="LR"><i>de</i><par n="de/ure__vbmod"/></e>        
+    <e r ="LR" lm="dever" alt="oci"><i>de</i><par n="de/ver__vbmod"/></e>        
+    <e lm="deure" alt="oci"><i>de</i><par n="de/ure__vbmod"/></e>        
       <e r="LR" lm="sostier" alt="oci"><i>sost</i><par n="t/ier__vblex"/></e>
     <e lm="sostier" alt="oci@aran"><i>sost</i><par n="t/ier__vblex"/></e>        
     <e lm="sostier" alt="oci@gascon"><i>sost</i><par n="t/ier__vblex"/></e>        
