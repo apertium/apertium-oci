@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Occitan], [1.0.0], [apertium-stuff@lists.sourceforge.net], [apertium-oci], [https://wiki.apertium.org/wiki/Apertium-oci])
+AC_INIT([Apertium Occitan], [1.0.1], [apertium-stuff@lists.sourceforge.net], [apertium-oci], [https://wiki.apertium.org/wiki/Apertium-oci])
 AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
